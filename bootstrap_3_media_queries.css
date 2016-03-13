@@ -4,8 +4,6 @@
 ==================================================*/
 
 
-
-
     /*==========  Mobile First Method  ==========*/
 
     /* Custom, iPhone Retina */ 
@@ -61,4 +59,32 @@
     @media only screen and (max-width : 320px) {
         
     }
+	
 
+    /*==========  Combined Mobile and Non-Mobile First Method  ==========*/
+	
+	
+    /* Custom, iPhone Retina */  
+    @media (max-width : 479px) {
+
+    }
+	
+	/* Extra Small Devices, Portrait Phones */ 
+	@media (min-width:480px) and (max-width:767px){
+		
+	}
+
+	/* Small Devices, Landscape Phones and Phablets, Portrait Tablets, Small Desktops */
+	@media (min-width:768px) and (max-width:991px){
+		
+	}
+
+	/* Medium Devices, Landscape Tablets, Laptops, Desktops */
+	@media (min-width:992px) and (max-width:1199px){
+		
+	}
+
+	/* Large Devices, Large Desktops, Wide Screens */
+	@media (min-width:1200px){
+		
+	}
