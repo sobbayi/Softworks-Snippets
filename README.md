@@ -9,6 +9,7 @@ List of Code Snippets
 	1. Default Bootstrap 3 media queries (bootstrap_3_media_queries.css)
 	2. Conditional JavaScript execution based on screen width (screen_width_cond_exec.js)
 
- ### Languages covered:
+ Languages covered:
+ ------------------
  
  CSS, JavaScript
